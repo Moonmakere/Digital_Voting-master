@@ -1,5 +1,9 @@
 # Digital_Voting_Master
 
+![xu4w0ag8](https://github.com/user-attachments/assets/4238ff69-ff42-4f86-b10c-abd6fc42d30d)
+
+![22716982-fb5b-4489-a1dd-ca1e4429cdcc](https://github.com/user-attachments/assets/69c09b29-5cab-4266-a112-7e382c2aa89a)
+
 # Prerequisites
 * Python version 3.12.0
 * PostgreSQL version 16.1
